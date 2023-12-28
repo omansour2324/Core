@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Algorithms", "Core.Alg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Algorithms.UnitTests", "Core.Algorithms.UnitTests\Core.Algorithms.UnitTests.csproj", "{F43D52C3-2FF1-455A-8F5B-BEEF13110EF5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{EA6A603D-8178-46BB-90AD-7ED4BF916613}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatterns", "DesignPatterns", "{EA6A603D-8178-46BB-90AD-7ED4BF916613}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
